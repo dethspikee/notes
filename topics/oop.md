@@ -2,16 +2,17 @@
 
 <h4>OOP Principles</h4>
 
-* **Data encapsulation** - methedology of "hiding" internal/core data OR/AND
+* **Data encapsulation** - methodology of "hiding" internal/core data OR/AND
     behaviour away from world.
 
-* **Data abstraction** - idea of prividing services dividing in layers where
+* **Data abstraction** - idea of prividing services divided in layers where
     each layer builts on top of the other and depends on the layer above.
     Abstraction tells us to provide simplified version of the implementation.
 
 * **Inheritance** - mechanism for creating parent-child relationships between
-    classes, Allows us reuse code between implementations. 
+    classes. Allows us to reuse code between implementations and define "IS A"
+    relationship. 
 
 * **Polymorphism** - "one name, many forms". Same method can produce different
-    operations. 
+    operations when executed in different context.  
 
