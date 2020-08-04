@@ -2,7 +2,7 @@
 
 <h4>Python</h4>
 
-* IN PROGRESS
+* [OOP Principles](https://github.com/blunt008/notes/blob/master/topics/oop.md)
 
 <h4>Flask</h4>
 
