@@ -2,7 +2,7 @@
 
 <h4>OOP Principles</h4>
 
-* **Data encapsulation** - methedology of "hiding" internal/core data OR
+* **Data encapsulation** - methedology of "hiding" internal/core data OR/AND
     behaviour away from world.
 
 * **Data abstraction** - idea of prividing services dividing in layers where
