@@ -1,6 +1,4 @@
-<h1>Object-Oriented Programming<h1>
-
-<h3>OOP Principles</h3>
+<h1>OOP Principles<h1>
 
 * **Data encapsulation** - methodology of "hiding" internal/core data OR/AND
     behaviour away from world.
