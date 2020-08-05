@@ -3,6 +3,7 @@
 <h4>Python</h4>
 
 * [OOP Principles](https://github.com/blunt008/notes/blob/master/topics/oop.md)
+* [Classes](https://github.com/blunt008/notes/blob/master/topics/classes.md)
 * [Object-Relational Mapping](https://github.com/blunt008/notes/blob/master/topics/orm_concept.md)
 
 <h4>Flask</h4>
