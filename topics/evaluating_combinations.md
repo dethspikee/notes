@@ -1,4 +1,4 @@
-<h1>Evaluating Combinations<h1>
+<h1>Evaluating Combinations</h1>
 
 In evaluating combinations, the interpreter is itself following a procedure.
 
