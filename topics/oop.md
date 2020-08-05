@@ -9,7 +9,7 @@
     each layer builts on top of the other and depends on the layer above.
     Abstraction tells us to provide simplified version of the implementation.
 
-* **Inheritance** - mechanism for creating parent-child relationships between
+* **Inheritance** - mechanism for creating parent-child relationship between
     classes. Allows us to reuse code between implementations and define "IS A"
     relationship. 
 
