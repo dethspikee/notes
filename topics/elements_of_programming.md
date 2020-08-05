@@ -14,7 +14,7 @@ simple ideas to form more complex ideas:</h3>
     manipulated as unit.
 
 
-<h3>In programming we deal with two kinds if elements:</h3>
+<h3>In programming we deal with two kinds of elements:</h3>
 
 * **data** - data is "stuff", "things" that we want to manipulate.
 
