@@ -15,3 +15,5 @@
 <h4>Structure and Interpretation of Computer Programs</h4>
 
 * [Elements of Programming](https://github.com/blunt008/notes/blob/master/topics/elements_of_programming.md)
+
+* [Expressions]()
