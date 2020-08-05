@@ -20,7 +20,7 @@ simple ideas to form more complex ideas:</h3>
 
 * **procedures** - description of rules that allow us to manipulate data.
 
-Any powerful programming language should describe primite data and primite 
+Any powerful programming language should describe primitive data and primitive 
 procedures and should have methods for combining and abstracting procedures 
 and data. 
 
