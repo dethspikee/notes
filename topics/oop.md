@@ -13,6 +13,6 @@
     classes. Allows us to reuse code between implementations and define "IS A"
     relationship. 
 
-* **Polymorphism** - "one name many forms". Same method can be a different 
+* **Polymorphism** - "one name many forms". Same method can use different 
     procedure when executed in different context.  
     
