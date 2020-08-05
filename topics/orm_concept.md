@@ -50,5 +50,5 @@ appropriate streets. However if you delete the street and it has an attribute
 
 <h3>Operations on Objects</h3>
 
-For common operations are known as *CRUD*. Create, read, update and delete 
+Four common operations are known as *CRUD*. Create, read, update and delete 
 operations.  
