@@ -46,6 +46,6 @@ accessed using the **dot notation** with the name of a class:
 Their value is the same for all instances of that class. 
 
 **Instance variables** store the data unique to each object of the class. 
-They're defined with class methods, notably, witin the *__init__* method. 
+They're defined with class methods, notably, within the "__init__" method. 
 
 
