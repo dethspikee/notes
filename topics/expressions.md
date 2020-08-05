@@ -1,4 +1,4 @@
-<h1>Expressions<h1>
+<h1>Expressions</h1>
 
 Imagine sitting in front of a computer terminal. You type an *expression*,
 and the interpreter responds by displaying the result of *evaluating* that
