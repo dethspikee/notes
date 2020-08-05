@@ -16,4 +16,8 @@
 
 * [Elements of Programming](https://github.com/blunt008/notes/blob/master/topics/elements_of_programming.md)
 
-* [Expressions]()
+* [Expressions](https://github.com/blunt008/notes/blob/master/topics/expressions.md)
+
+* [Naming and Environments](https://github.com/blunt008/notes/blob/master/topics/naming_and_environment.md)
+
+* [Evaluating Combinations](https://github.com/blunt008/notes/blob/master/topics/evaluating_combinations.md)
