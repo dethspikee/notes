@@ -1,4 +1,4 @@
-<h1>Naming and the Environment<h1>
+<h1>Naming and the Environment</h1>
 
 A critical aspect of a programming language is the means it provides for 
 using *names* to refer to *computational objects*. A name (a.k.a symbol)
