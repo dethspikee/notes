@@ -4,9 +4,9 @@ A class instance is an object of the class. Initially all instances of the class
 would be identical to one another. Most of the time it's not what we want.
 To customize initial state of an instance, the **\__init__** method is used. 
 
-The *\__init__* method is a **constuctor**. A class can have only one 
-constructor. If *\__init__* is defined within a class it is automatically 
-invoked when we create a new class instance. 
+The *\__init__* method is used to **initialize** the instance. A class can have 
+only one \__init__ method. If *\__init__* is defined within a class it is 
+automatically invoked when we create a new class instance. 
 
 ```python
 class River:
