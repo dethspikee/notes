@@ -1,4 +1,4 @@
-<h1>\__str__ vs \__repr__</h1>
+<h1>__str__ vs __repr__</h1>
 
 *\__str__* defines the behaviour of a *str()* function and *\__repr__* defines 
 the *repr()* function. A general rule is that the output of the "\__str__"
