@@ -5,6 +5,9 @@
 * [OOP Principles](https://github.com/blunt008/notes/blob/master/topics/oop.md)
 * [Classes](https://github.com/blunt008/notes/blob/master/topics/classes.md)
 * [Class Instances](https://github.com/blunt008/notes/blob/master/topics/class_instances.md)
+* [Dunder Methods](https://github.com/blunt008/notes/blob/master/topics/magic_methods.md)
+* [__init__ and __new__](https://github.com/blunt008/notes/blob/master/topics/init%20_vs_new.md)
+* [__str__ and __repr__](https://github.com/blunt008/notes/blob/master/topics/str_vs_repr.md)
 * [Object-Relational Mapping](https://github.com/blunt008/notes/blob/master/topics/orm_concept.md)
 
 <h4>Flask</h4>
