@@ -1,4 +1,4 @@
-<h1>\__init__ vs \__new__</h1>
+<h1>__init__ vs __new__</h1>
 
 New objects are initialized with the \__init__ method but they are created 
 by the *\__new__* method that in its turn calls the \__init__ method. 
