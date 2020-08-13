@@ -33,3 +33,8 @@
 * [Substitute Model for Procedure Application](https://github.com/blunt008/notes/blob/master/topics/substitute_model_for_procedure_application.md)
 
 * [Applicative order versus Normal Order](https://github.com/blunt008/notes/blob/master/topics/applicative_order_vs_normal.md)
+
+* [Functions versus Procedures]()
+
+* [Procedures as Black-Box Abstractions]()
+
