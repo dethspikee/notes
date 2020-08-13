@@ -1,7 +1,7 @@
 <h1>Local Names, scope, bound and free variables</h1>
 
 One detail of a procedure's implementation that should not matter to the user 
-of the procedure is the implementer's choice of names foe the procedure's 
+of the procedure is the implementer's choice of names for the procedure's 
 formal parameters. Thus, the following procedures should not be 
 distinguishable:
 
