@@ -25,9 +25,9 @@ The general form of a procedure definition is:
 (define (<name> <formal parameters>) (body))
 ``` 
 
-The <name> is a symbol to be associated with the procedure definition in 
-the environment. The <formal parameters> are the names used within the body 
+The "name" is a symbol to be associated with the procedure definition in 
+the environment. The "formal parameters" are the names used within the body 
 of the procedure to refer to the corresponding arguments of the procedure. 
-The <body> is an expression that will *yield* the value of the procedure 
+The "body" is an expression that will *yield* the value of the procedure 
 application when the formal parameters are replaced by the actual arguments 
 to which the procedure is applied. 

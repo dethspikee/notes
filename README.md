@@ -27,3 +27,9 @@
 * [Naming and Environments](https://github.com/blunt008/notes/blob/master/topics/naming_and_environment.md)
 
 * [Evaluating Combinations and Special Forms](https://github.com/blunt008/notes/blob/master/topics/evaluating_combinations.md)
+
+* [Compound Procedures](https://github.com/blunt008/notes/blob/master/topics/compound_procedures.md)
+
+* [Substitute Model for Procedure Application](https://github.com/blunt008/notes/blob/master/topics/substitute_model_for_procedure_application.md)
+
+* [Applicative order versus Normal Order](https://github.com/blunt008/notes/blob/master/topics/applicative_order_vs_normal.md)
