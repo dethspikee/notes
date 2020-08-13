@@ -34,9 +34,9 @@
 
 * [Applicative order versus Normal Order](https://github.com/blunt008/notes/blob/master/topics/applicative_order_vs_normal.md)
 
-* [Functions versus Procedures]()
+* [Functions versus Procedures](https://github.com/blunt008/notes/blob/master/topics/functions_versus_procedures.md)
 
-* [Procedures as Black-Box Abstractions]()
+* [Procedures as Black-Box Abstractions](https://github.com/blunt008/notes/blob/master/topics/procedures_black_box_abstractions.md)
 
-* [Local Names, Scope, Bound and Free Variables]()
+* [Local Names, Scope, Bound and Free Variables](https://github.com/blunt008/notes/blob/master/topics/local_names.md)
 
