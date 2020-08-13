@@ -38,3 +38,5 @@
 
 * [Procedures as Black-Box Abstractions]()
 
+* [Local Names, Scope, Bound and Free Variables]()
+
