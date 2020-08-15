@@ -40,3 +40,4 @@
 
 * [Local Names, Scope, Bound and Free Variables](https://github.com/blunt008/notes/blob/master/topics/local_names.md)
 
+* [Block Structure and Lexical Scoping]()
