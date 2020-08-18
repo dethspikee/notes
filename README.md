@@ -13,7 +13,8 @@
 
 <h4>Data Structures</h4>
 
-* [What are Data Strctures?](https://github.com/blunt008/notes/blob/master/topics/what_are_data_structures.md)
+* [What are Data Structures?](https://github.com/blunt008/notes/blob/master/topics/what_are_data_structures.md)
+* [Complexity Analysis]()
 
 <h4>Computer Networks</h4>
 
