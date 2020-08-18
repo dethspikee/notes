@@ -1,6 +1,6 @@
 <h1>Complexity Analysis</h1>
 
-What makes on solution better than another? It's whether or not it has a better 
+What makes one solution better than another? It's whether or not it has a better 
 complexity. 
 
 Complexity can be further divided into 2 different concepts:
@@ -16,8 +16,8 @@ In a high-level overview:
 * Space complexity is a measure how much memory or space the algorithm uses up 
 
 Data structure operations have time and space complexity ramifiactions. In other 
-words, to perform an operation or a function on a given data structure it's going 
-to take up time and memory. 
+words, performing an operation or a function on a given data structure will take 
+up time and memory. 
 
 
 
