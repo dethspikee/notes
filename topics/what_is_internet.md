@@ -4,6 +4,8 @@ Internet is a computer network that interconnects billion of computing devices
 throughout the world. Devices connected to the Internet are called **hosts**
 or **end systems**. 
 
+Internet is also an infrastructure that provides services to applications. 
+
 End systems are connected together by a network or **communication links** 
 and **packet switches**. There are many different types of communication
 links, which are made up of different physical media, including coaxial 
