@@ -13,7 +13,7 @@
 
 <h4>Data Structures</h4>
 
-* [What are Data Strctures?]()
+* [What are Data Strctures?](https://github.com/blunt008/notes/blob/master/topics/what_are_data_structures.md)
 
 <h4>Computer Networks</h4>
 
