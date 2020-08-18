@@ -11,9 +11,9 @@
 * [Mutability and immutability](https://github.com/blunt008/notes/blob/master/topics/immutability.md)
 * [Object-Relational Mapping](https://github.com/blunt008/notes/blob/master/topics/orm_concept.md)
 
-<h4>Flask</h4>
+<h4>Data Structures</h4>
 
-* IN PROGRESS
+* [What are Data Strctures?]()
 
 <h4>Computer Networks</h4>
 
