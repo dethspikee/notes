@@ -13,7 +13,7 @@
 
 <h4>Django</h4>
 
-* [Models]()
+* [Models](https://github.com/blunt008/notes/blob/master/topics/models.md)
 
 <h4>Data Structures</h4>
 
