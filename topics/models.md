@@ -3,7 +3,7 @@
 A model is a Python class that encapsulates all the data. Model is a 
 representation of data in the database. Modes are later mapped into a database 
 table. A Python Model inherits from class ‘Models’ functionality such as 
-ORM - Object Relational Mapper. ORM allows us to interact with databases using 
+ORM - Object Relational Mapping. ORM allows us to interact with databases using 
 something called a ‘Manager’ object which is attached to *‘objects’*. 
 
 Model consists of class attributes which, again, are class instances. Those 
