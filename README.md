@@ -11,6 +11,10 @@
 * [Mutability and immutability](https://github.com/blunt008/notes/blob/master/topics/immutability.md)
 * [Object-Relational Mapping](https://github.com/blunt008/notes/blob/master/topics/orm_concept.md)
 
+<h4>Django</h4>
+
+* [Models]()
+
 <h4>Data Structures</h4>
 
 * [What are Data Structures?](https://github.com/blunt008/notes/blob/master/topics/what_are_data_structures.md)
