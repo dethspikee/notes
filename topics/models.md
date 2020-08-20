@@ -21,6 +21,12 @@ For many to many:
 Database queries are by default set to **LAZY** meaning that those queries are 
 only performed when needed.
 
+Django QuerySets are lazy, which means they are only evaluated when they are 
+forced to be. This behavior makes QuerySets very efficient. If you don't set the
+QuerySet to a variable, but instead write it directly on the Python shell, 
+the SQL statement of the QuerySet is executed because you force it to output 
+results.
+
 We can extend our Model functionality by adding class methods (such as __str__) 
 or change current behaviour using inner class ‘Meta’. Using Meta class we can, 
 for example, change the default sorting order of our queryset (that we receive 
@@ -39,3 +45,4 @@ Model managers are not the only managers django uses. When dealing with
 relationships between model's, individual attributes such as "ManyToMany" or 
 "ForeignKey" act as managers too. They can be used to access connected instances. 
 Relational managers are accessed using model instances not Models itself. 
+
