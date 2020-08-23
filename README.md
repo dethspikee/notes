@@ -10,6 +10,7 @@
 * [__str__ and __repr__](https://github.com/blunt008/notes/blob/master/topics/str_vs_repr.md)
 * [Mutability and immutability](https://github.com/blunt008/notes/blob/master/topics/immutability.md)
 * [Object-Relational Mapping](https://github.com/blunt008/notes/blob/master/topics/orm_concept.md)
+* [Objects in Python]()
 
 <h4>Django</h4>
 
