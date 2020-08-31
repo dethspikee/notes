@@ -26,8 +26,10 @@
 
 * [What is Internet?](https://github.com/blunt008/notes/blob/master/topics/what_is_internet.md)
 * [What is a Protocol?](https://github.com/blunt008/notes/blob/master/topics/what_is_protocol.md)
-* [Network Core: Access Networks](https://github.com/blunt008/notes/blob/master/topics/access_networks.md)
+* [Network Edge: Access Networks](https://github.com/blunt008/notes/blob/master/topics/access_networks.md)
 * [Physical Media](https://github.com/blunt008/notes/blob/master/topics/physical_media.md)
+* [Network Core]()
+* [Network Core: Packet Switching]()
 
 
 
