@@ -28,8 +28,8 @@
 * [What is a Protocol?](https://github.com/blunt008/notes/blob/master/topics/what_is_protocol.md)
 * [Network Edge: Access Networks](https://github.com/blunt008/notes/blob/master/topics/access_networks.md)
 * [Physical Media](https://github.com/blunt008/notes/blob/master/topics/physical_media.md)
-* [Network Core]()
-* [Network Core: Packet Switching]()
+* [Network Core](https://github.com/blunt008/notes/blob/master/topics/network_core.md)
+* [Network Core: Packet Switching](https://github.com/blunt008/notes/blob/master/topics/packet_switching.md)
 
 
 
