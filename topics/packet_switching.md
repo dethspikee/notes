@@ -20,3 +20,15 @@ links. Store-and-forward transmission means that the packet switch must receive
 *the entire packet* before it can begin to transmit the first bit of the packet 
 onto the outbound link. 
 
+Routers need to receive, store and process the entire packet before forwarding. 
+
+<h2>Queueing Delays and Packet Loss</h2>
+
+Each packet switch has multiple links attached to it. For each attached link,
+the packet switch has an **output buffer** (also called output queue), which 
+stores packets that the router is about to send into that link. 
+
+If an arriving packet needs to be transmitted onto a link but find the link busy
+with the transmission of another packet, the arriving packet must wait in the 
+output buffer. 
+

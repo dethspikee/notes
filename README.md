@@ -21,6 +21,7 @@
 
 * [What are Data Structures?](https://github.com/blunt008/notes/blob/master/topics/what_are_data_structures.md)
 * [Complexity Analysis](https://github.com/blunt008/notes/blob/master/topics/complexity_analysis.md)
+* [Big O Notation]()
 * [Arrays]()
 
 <h4>Computer Networks</h4>
