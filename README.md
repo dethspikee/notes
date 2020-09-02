@@ -31,7 +31,10 @@
 * [Network Edge: Access Networks](https://github.com/blunt008/notes/blob/master/topics/access_networks.md)
 * [Physical Media](https://github.com/blunt008/notes/blob/master/topics/physical_media.md)
 * [Network Core](https://github.com/blunt008/notes/blob/master/topics/network_core.md)
-* [Network Core: Packet Switching](https://github.com/blunt008/notes/blob/master/topics/packet_switching.md)
+* [Network Core: Packet Switching, Router's Buffer, Queueing Delays and Packet Loss](https://github.com/blunt008/notes/blob/master/topics/packet_switching.md)
+* [Throughput]()
+* [Overview of Delay in Packet-Switched Networks]()
+
 
 
 
