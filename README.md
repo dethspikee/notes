@@ -16,6 +16,7 @@
 <h4>Django</h4>
 
 * [Models](https://github.com/blunt008/notes/blob/master/topics/models.md)
+* [Views]()
 
 <h4>Data Structures</h4>
 
@@ -35,6 +36,7 @@
 * [Throughput](https://github.com/blunt008/notes/blob/master/topics/throughput.md)
 * [Overview of Delay in Packet-Switched Networks](https://github.com/blunt008/notes/blob/master/topics/overview_of_delay_packet_loss.md)
 * [Throughput in Computer Networks]()
+* [Layered Architecture]()
 
 
 
