@@ -17,6 +17,13 @@
 
 * [Models](https://github.com/blunt008/notes/blob/master/topics/models.md)
 * [Views]()
+* [URL Reversing]()
+
+
+<h4>Databases</h4>
+
+* []()
+* []()
 
 <h4>Data Structures</h4>
 
