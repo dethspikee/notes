@@ -16,9 +16,8 @@
 <h4>Django</h4>
 
 * [Models](https://github.com/blunt008/notes/blob/master/topics/models.md)
-* [Views]()
+* [Views](https://github.com/blunt008/notes/blob/master/topics/views.md)
 * [URL Reversing]()
-
 
 <h4>Databases</h4>
 
@@ -42,7 +41,6 @@
 * [Network Core: Packet Switching, Router's Buffer, Queueing Delays and Packet Loss](https://github.com/blunt008/notes/blob/master/topics/packet_switching.md)
 * [Throughput](https://github.com/blunt008/notes/blob/master/topics/throughput.md)
 * [Overview of Delay in Packet-Switched Networks](https://github.com/blunt008/notes/blob/master/topics/overview_of_delay_packet_loss.md)
-* [Throughput in Computer Networks](https://github.com/blunt008/notes/blob/master/topics/throughput.md)
 * [Layered Architecture]()
 
 <h4>Structure and Interpretation of Computer Programs</h4>
