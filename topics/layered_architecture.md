@@ -87,5 +87,11 @@ between the source and destination. To move a packet from one node (host or
 router) to the next node in the route, the network layer relies on the services 
 of the link layer. In particular, at each node, the network layer passes the 
 datagram down to the link layer, which delivers the datagram to the next node 
-along the route. 
+along the route. We refer to the link-layer packets as **frames**. 
 
+<h2>Physical Layer</h2>
+
+While the job of the link layer is to move entire frames from one network 
+element to an adjacent network element, the job of the physical layer is to move
+individual bits within the frame from one node to the next. The protocols in 
+this layer are again link dependent. 
