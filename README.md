@@ -42,6 +42,7 @@
 * [Throughput](https://github.com/blunt008/notes/blob/master/topics/throughput.md)
 * [Overview of Delay in Packet-Switched Networks](https://github.com/blunt008/notes/blob/master/topics/overview_of_delay_packet_loss.md)
 * [Layered Architecture]()
+* [Encapsulation]()
 
 <h4>Structure and Interpretation of Computer Programs</h4>
 
