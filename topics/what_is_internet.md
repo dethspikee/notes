@@ -45,7 +45,7 @@ The internet is all about connecting end systems to each other, so the ISPs
 that provide access to end systems must also be interconnected. 
 
 Each ISP network, wheter upper-tier or lower-tier, is managed independently,
-runs the IP protocal, and conforms to certain naming and address conventions. 
+runs the IP protocol, and conforms to certain naming and address conventions. 
 
 
 End systems, packet switches, and other pieces of the Internet run **protocols**
