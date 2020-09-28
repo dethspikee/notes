@@ -44,6 +44,7 @@
 * [Layered Architecture](https://github.com/blunt008/notes/blob/master/topics/layered_architecture.md)
 * [Encapsulation](https://github.com/blunt008/notes/blob/master/topics/encapsulation.md)
 * [Network Application Architectures]()
+* [Processes Communicating]()
 
 <h4>Structure and Interpretation of Computer Programs</h4>
 
