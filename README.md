@@ -43,10 +43,10 @@
 * [Overview of Delay in Packet-Switched Networks](https://github.com/blunt008/notes/blob/master/topics/overview_of_delay_packet_loss.md)
 * [Layered Architecture](https://github.com/blunt008/notes/blob/master/topics/layered_architecture.md)
 * [Encapsulation](https://github.com/blunt008/notes/blob/master/topics/encapsulation.md)
-* [Network Application Architectures]()
-* [Processes Communicating]()
-* [Services that a Transport-layer can offer]()
-* [Transport Services Provided by the Internet]()
+* [Network Application Architectures](https://github.com/blunt008/notes/blob/master/topics/network_app_architectures.md)
+* [Processes Communicating](https://github.com/blunt008/notes/blob/master/topics/processes_communicating.md)
+* [Services that a Transport-layer can offer](https://github.com/blunt008/notes/blob/master/topics/transport_layer_services.md)
+* [Transport Services Provided by the Internet](https://github.com/blunt008/notes/blob/master/topics/transport_services.md)
 
 <h4>Structure and Interpretation of Computer Programs</h4>
 
