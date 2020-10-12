@@ -31,6 +31,10 @@
 * [Big O Notation]()
 * [Arrays]()
 
+<h4>Computer Architecture</h4>
+
+* [Chip]
+
 <h4>Computer Networks</h4>
 
 * [What is Internet?](https://github.com/blunt008/notes/blob/master/topics/what_is_internet.md)
