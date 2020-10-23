@@ -33,7 +33,9 @@
 
 <h4>Computer Architecture</h4>
 
-* [Chip]
+* [Chip]()
+* [Logic gates]()
+* [Gate Interface (Abstraction) / Gate Implementation]
 
 <h4>Computer Networks</h4>
 
