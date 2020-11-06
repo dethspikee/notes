@@ -33,9 +33,9 @@
 
 <h4>Computer Architecture</h4>
 
-* [Chip]()
-* [Logic gates]()
-* [Gate Interface (Abstraction) / Gate Implementation]
+* [Chip](https://github.com/blunt008/notes/blob/master/topics/chip.md)
+* [Logic gates](https://github.com/blunt008/notes/blob/master/topics/logic_gates.md)
+* [Gate Interface (Abstraction) / Gate Implementation](https://github.com/blunt008/notes/blob/master/topics/implementation_interface.md)
 
 <h4>Computer Networks</h4>
 
