@@ -53,6 +53,7 @@
 * [Processes Communicating](https://github.com/blunt008/notes/blob/master/topics/processes_communicating.md)
 * [Services that a Transport-layer can offer](https://github.com/blunt008/notes/blob/master/topics/transport_layer_services.md)
 * [Transport Services Provided by the Internet](https://github.com/blunt008/notes/blob/master/topics/transport_services.md)
+* [Public IP vs. Private IP]()
 
 <h4>Structure and Interpretation of Computer Programs</h4>
 
