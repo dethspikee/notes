@@ -26,5 +26,11 @@ Most homes these days have a device called *router*. Router serves multiple purp
 
 We need addressing system to address entities in the local area network. 
 
+Router is also assigned private IP address so if we want to host a web application on a 
+computer that belongs to local network (but is not a router), we need to create port forwarding 
+on a router to make sure that all requests coming from the outside are forwarded to appropriate host. 
+
+
+
 
 
