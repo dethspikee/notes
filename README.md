@@ -19,11 +19,6 @@
 * [Views](https://github.com/blunt008/notes/blob/master/topics/views.md)
 * [URL Reversing]()
 
-<h4>Databases</h4>
-
-* []()
-* []()
-
 <h4>Data Structures</h4>
 
 * [What are Data Structures?](https://github.com/blunt008/notes/blob/master/topics/what_are_data_structures.md)
