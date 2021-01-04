@@ -2,8 +2,6 @@
 
 OSI model consits of 7 different layers. Each layer provides different service. 
 
-So what happens when you type URL address in your browser followed by ENTER? 
-
 LAYER 7 - Application layer 
 
 This is the very first service provided to a client that makes a request to a server, 
