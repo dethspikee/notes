@@ -6,10 +6,7 @@ For both of these there are permissions and networking, so even though S3 is a p
 
 There are three different network zones:
 
-Public Internet |   AWS "Public" zone          |        AWS Private zone
-                |   Public services (s3) etc.  |             VPCs
-                |                              |
-                |                              |
+Public Internet | Aws public zone (services such as S3) | Aws private zone (services running inside VPCs)
 
 On-premises networks can access VPCs only if configured via VPN or Direct connect.
 
