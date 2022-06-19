@@ -22,3 +22,4 @@ Generally your laptop will use DNS resolver server that's usually located within
 
 Root zone is managed by IANA.
 
+IANA do not run anything else in DNS apart from Root zones. They delegate management to other organization known as registries. Ony registry will manage .uk, .org etc.
