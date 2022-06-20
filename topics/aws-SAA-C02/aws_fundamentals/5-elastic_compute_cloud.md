@@ -34,6 +34,7 @@ Amazon machine image is an image of an EC2 instance. AMI can be used to create E
 AMI contains few importants things:
 - Attached permissions these control which accounts can or can't use AMI. AMI can be set as public meaning everyone can launch instances from it. AMI can be set as "owner" meaning only owner of an AMI can launch EC2 instances from it. Finally you can add explicit permissions to that AMI where the owner grants access for specific AWS accounts.
 - Root volume of an instance (C drive in windows or root volume in Linux.) drive that boots the OS
+- Can contain other data volumes
 - Block device mapping this is a configuration which links the volumes that the AMI has and how they're presented to the OS. It determines which volume is a boot volume and which volume is a data volume.
 
 You connect to EC2 instances running Windows distribution using RDP protocol running on port 3389. With Linux instances it uses SSH protocol which uses port 22.
